@@ -1,6 +1,6 @@
 # 🚕 Uber/Ola Fare Estimator using Machine Learning & FastAPI
 
-## 📌 Project Overview
+## 📌 Project Overview::
 
 This project predicts Uber/Ola ride fares using Machine Learning. The model is trained on historical ride data and uses ride-related features such as passenger count, pickup time, and trip distance to estimate the fare amount.
 
